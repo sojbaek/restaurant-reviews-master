@@ -4,3 +4,9 @@ npm install express mongodb cors dotenv
 npm install -g nodemon 
 
 nodemon server
+
+
+npm install react react-router-dom
+npm install bootstrap
+
+npm start
